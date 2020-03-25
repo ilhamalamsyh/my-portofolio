@@ -21,6 +21,11 @@ text-align: center;
   padding-top: 5em;
 }
 
+.projects-grid{
+  display: flex;
+  justify-content: ;
+}
+
 .banner-text{
   background-color: black;
   opacity: .8;
