@@ -109,3 +109,17 @@ text-align: center;
   background: #27221f;
   color: white;
 }
+
+/* About Me Page */
+.my-soc-med{
+  display: flex;
+  justify-content: space-between;
+  width: 35%;
+  margin: auto;
+}
+
+.my-soc-med i{
+  margin-top: 200px;
+  font-size: 3em;
+  padding: 8px;
+}

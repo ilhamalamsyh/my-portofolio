@@ -29,9 +29,9 @@ class Resume extends Component{
 						<h5>Phone</h5>
 						<p>(+62) 858-8948-7721</p>
 						<h5>Linked In</h5>
-						<p><a href="https://www.linkedin.com/in/ilham-alamsyah-94936717a/">Ilham Alamsyah</a></p>
+						<p><a style={{textDecoration: 'none'}} href="https://www.linkedin.com/in/ilham-alamsyah-94936717a/">Ilham Alamsyah</a></p>
 						<h5>Github</h5>
-						<p><a target='_blank' href="https://www.linkedin.com/in/ilham-alamsyah-94936717a/">ilhamGranger</a></p>
+						<p><a style={{textDecoration: 'none'}} target='_blank' rel="noopener noreferrer" href="https://www.linkedin.com/in/ilham-alamsyah-94936717a/">ilhamGranger</a></p>
 						<hr style={{borderTop: '3px solid #833fb2', width: '70%'}}/>
 					</div>	
 				</Cell>
